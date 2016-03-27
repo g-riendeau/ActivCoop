@@ -295,6 +295,14 @@ a {
   text-decoration: none;
 }
 
+p center{
+  text-align: center;
+}
+
+p right{
+  text-align: right;
+}
+
 p a {
   font-weight: 400;
 }
