@@ -55,8 +55,7 @@ hr {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #e04929;
-  background-image: linear-gradient(120deg, #002266, #e04929); }
+  background-color: #5f3569; }
 
 @media screen and (min-width: 64em) {
   .page-header {
